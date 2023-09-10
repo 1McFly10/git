@@ -1,1 +1,2 @@
 alert()
+let obj = {}
