@@ -1,2 +1,2 @@
 alert()
-console.log('TT-3')
+console.log('TT-3!!!')
