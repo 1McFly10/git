@@ -1,8 +1,9 @@
-let p = 0;
-let x = 15;
-let y = 15;
-let sum = 0
-sum = p + x;
-console.log(sum);
-y += sum;
-console.log(y);
+let a = 9;
+let b = 15;
+function sum (a, b){
+    return a + b;
+}
+console.log(sum(a, b))
+
+
+
